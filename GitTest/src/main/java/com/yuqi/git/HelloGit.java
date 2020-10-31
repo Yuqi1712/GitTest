@@ -6,5 +6,7 @@ public class HelloGit {
         System.out.println("hello git");
         System.out.println("更新一");
         System.out.println("主干");
+        System.out.println("在线更新");
+        
     }
 }
